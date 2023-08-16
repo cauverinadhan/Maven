@@ -298,7 +298,11 @@ public class Base {
 						File desc = new File("C:\\Users\\DELL\\eclipse-workspace\\dhivakar\\ProjectClass2\\ScreenShot\\" +filename + ".png");
 						FileUtils.copyFile(src, desc);
 					}
+private void syso() {
+	// TODO Auto-generated method stub
+	System.out.println();
 
+}
 				//Scrolling up and down
 					
 					public static void scrolling( int a) {
